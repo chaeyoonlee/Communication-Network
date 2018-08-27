@@ -9,3 +9,4 @@ Project about creating a network with packer tracer
  5. you can set IP adress as you want but you have to set switches under C class
  6. VLAN 10 only can communicate with VLAN 10 and VLAN 20 only can communicate with VLAN 20. HoweverVLAN 10 and VLAN20 can NOT comunicate. 
  7. when you test ping or trace router, you have to make an error on purpose in order to see you made condition number 2.
+ ![alt text](https://github.com/chaeyoonlee/Communication-Network/blob/master/condition.jpg)
